@@ -46,7 +46,7 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
-repo_url: https:/https://github.com/shotsan/cybermanufacturing/
+repo_url: https://github.com/shotsan/cybermanufacturing/
 repo_name: Cyber Manufacturing
 edit_uri: blob/main/docs
 
