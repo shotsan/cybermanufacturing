@@ -1,7 +1,8 @@
-# Welcome to doc2dash
-
-{%
-   include-markdown "../README.md"
-   start="<!-- begin-short -->"
-   end="## Quickstart"
-%}
+# Cyber Manufacturing Project
+### Exploring the use of Machine Learning in Manufacturing
+<!--
+{%-->
+ <!--  include-markdown "../README.md"-->
+ 
+  <!--   end="## Quickstart" -->
+<!-- %} -->
