@@ -24,7 +24,7 @@ theme:
     - navigation.expand
     - navigation.sections
   font: false
-  icon: 
+  icon: docs/tamu-logo.svg
     repo: fontawesome/brands/github
   palette:
     - media: "(prefers-color-scheme: dark)"
