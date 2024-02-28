@@ -24,7 +24,7 @@ theme:
     - navigation.expand
     - navigation.sections
   font: false
-  icon: docs/tamu-logo.svg
+  icon: docs/TAM-LogoBox.png
     repo: fontawesome/brands/github
   palette:
     - media: "(prefers-color-scheme: dark)"
