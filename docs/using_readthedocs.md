@@ -19,3 +19,8 @@ commands on terminal and code snippets
 Any markdown command works. [*Cheatsheet*](https://www.markdownguide.org/cheat-sheet/) of markdown commands
 
 [*Emojis*](https://github.com/markdown-templates/markdown-emojis) :thumbsup:
+
+
+#Complete guide to edit theme
+
+Follow the [*link*](https://squidfunk.github.io/mkdocs-material/)https://squidfunk.github.io/mkdocs-material/)
