@@ -23,7 +23,7 @@ theme:
   features:
     - navigation.expand
     - navigation.sections
-  font: false
+  font: tamu-logo.svg
   icon:
     repo: fontawesome/brands/github
   palette:
