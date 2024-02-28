@@ -16,8 +16,7 @@ nav:
   - Learning Algorithms: mlalgos.md
   - Meta:
     - License & Credits: credits.md
-    - Changelog: 
-    - Funding: 
+  
 
 theme:
   name: material
