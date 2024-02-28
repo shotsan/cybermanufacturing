@@ -1,4 +1,3 @@
 # Learning Algorithms
 
-## intersphinx
 
