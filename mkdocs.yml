@@ -12,12 +12,12 @@ watch:
 nav:
   - About: index.md
   - Dataset: quickstart.md
-  - Installation: installation.md
-  - Learning Algorithms: formats.md
+  - Using Read_the_doc: using_readthedocs.md
+  - Learning Algorithms: MLalgos.md
   - Meta:
     - License & Credits: credits.md
-    - Changelog: https://github.com/hynek/doc2dash/blob/main/CHANGELOG.md
-    - Funding: https://hynek.me/say-thanks/
+    - Changelog: 
+    - Funding: 
 
 theme:
   name: material
