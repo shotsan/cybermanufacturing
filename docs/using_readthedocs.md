@@ -23,4 +23,4 @@ Any markdown command works. [*Cheatsheet*](https://www.markdownguide.org/cheat-s
 
 #Complete guide to edit theme
 
-Follow the [*link*](https://squidfunk.github.io/mkdocs-material/)https://squidfunk.github.io/mkdocs-material/)
+Follow the [*link*](https://squidfunk.github.io/mkdocs-material/)
