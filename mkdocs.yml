@@ -30,8 +30,8 @@ theme:
   palette:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: deep purple
-      accent: deep purple
+      primary: maroon
+      accent: maroon
       toggle:
         icon: material/weather-night
         name: Switch to light mode
