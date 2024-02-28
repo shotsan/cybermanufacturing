@@ -37,8 +37,8 @@ theme:
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: deep purple
-      accent: deep purple
+      primary: maroon
+      accent: maroon
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
