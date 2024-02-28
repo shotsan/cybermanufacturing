@@ -1,6 +1,6 @@
-# Headings
+# Headings Style1
 
-## Headings with emoji 🍻
+## Headings style2
 
 For [*links*](https://brew.sh) 
 
@@ -17,3 +17,5 @@ commands on terminal and code snippets
 > 
 
 Any markdown command works. [*Cheatsheet*](https://www.markdownguide.org/cheat-sheet/) of markdown commands
+
+[*Emojis*](https://github.com/markdown-templates/markdown-emojis) :thumbsup:
