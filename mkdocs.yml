@@ -23,8 +23,8 @@ theme:
   features:
     - navigation.expand
     - navigation.sections
-  font: tamu-logo.svg
-  icon:
+  font: false
+  icon: tamu-logo.svg
     repo: fontawesome/brands/github
   palette:
     - media: "(prefers-color-scheme: dark)"
