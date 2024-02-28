@@ -13,7 +13,7 @@ nav:
   - About: index.md
   - Dataset: quickstart.md
   - Using Read_the_doc: using_readthedocs.md
-  - Learning Algorithms: MLalgos.md
+  - Learning Algorithms: mlalgos.md
   - Meta:
     - License & Credits: credits.md
     - Changelog: 
