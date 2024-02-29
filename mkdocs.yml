@@ -24,7 +24,7 @@ theme:
     - navigation.expand
     - navigation.sections
   font: false
-  icon: tamu-logo.svg
+  icon: 
     repo: fontawesome/brands/github
   palette:
     - media: "(prefers-color-scheme: dark)"
